@@ -4,7 +4,7 @@ This project drives inspiration from [FLORIN POP blog](https://www.florin-pop.co
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
-### [Live Preview](https://stackblitz.com/github/namith-scindhia-newpage-io/christmas-lights-angular?embed=1&hideExplorer=1&hideNavigation=1&view=preview)
+### [Live Preview](https://stackblitz.com/github/yagamilight1987/christmas-lights-angular?embed=1&hideExplorer=1&hideNavigation=1&view=preview)
 
 ## Development server
 
