@@ -1,0 +1,59 @@
+p {
+    font-family: Lato;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .light {
+    height: 30px;
+    width: 30px;
+    margin: 30px;
+    border-radius: 50%;
+  }
+  
+  .blue {
+    background: blue;
+    box-shadow: 0 0 20px blue;
+  }
+  
+  .yellow {
+  background: cyan;
+    box-shadow: 0 0 20px cyan;
+  }
+  
+  .red {
+  background:red;
+    box-shadow: 0 0 20px red;
+  }
+  
+  .green {
+  background:green;
+    box-shadow: 0 0 20px green;
+  }
+  
+  .orange {
+  background:orange;
+    box-shadow: 0 0 20px orange;
+  }
+  
+  .darkblue {
+  background:darkblue;
+    box-shadow: 0 0 20px darkblue;
+  }
+  
+  .purple {
+  background:purple;
+    box-shadow: 0 0 20px purple;
+  }
+  
+  .blink {
+    box-shadow: none;
+  }
+  
+  .off {
+    box-shadow: none;
+    opacity: .5;
+  }
+  
